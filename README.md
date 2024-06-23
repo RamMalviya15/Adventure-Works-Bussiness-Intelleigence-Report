@@ -24,4 +24,4 @@ They seek a solution in the form of a visual story that can provide all the real
 ## **Data Visualization**
   - Report: Developed interactive Power BI report to visualize data insights effectively.
   - Visual Elements: Incorporated various visual elements, including bar charts, line charts, pie charts, and tables, to represent data intuitively.
-  - User Interaction: Enabled user interaction through slicers, drill-downs, and filtering to facilitate deep data exploration.
+  - User Interaction: Enabled user interaction through slicers, filtering to facilitate deep data exploration.
