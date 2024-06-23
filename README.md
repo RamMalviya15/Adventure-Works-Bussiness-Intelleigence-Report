@@ -1,6 +1,9 @@
 # Adventure Works Business Intelligence Report
-Adventure Works is a global manufacturing company that produces cycling equipment and accessories.  <br/>
-This project demonstrates my skills in data loading, modeling, analysis, and visualization using Power BI Desktop. By transforming raw data from the Adventure Works dataset into insightful Power BI report, I aimed to enhance business intelligence and provide actionable insights.
+AdventureWorks, a global manufacturing company that produces cycling equipment and accessories, is facing challenges in effectively tracking key performance indicators KPIs (sales, revenue, profit, returns), compare regional performance, analyze product-level trends, and identify high-value customers. Currently, the team is facing difficulty to gain timely insights and make informed business decisions. 
+
+
+They seek a solution in the form of a visual story that can provide all the real-time progress and insights they need. This project involves creating a Power BI report that presents an interactive visual story to help the management team overcome their current challenges.
+
 
 ## Steps in this Project:
 - Data Loading and Transformation
