@@ -1,4 +1,4 @@
-# Adventure Works Business Intelligence Report
+# Business Intelligence Report - Adventure Works 
 AdventureWorks, a global manufacturing company that produces cycling equipment and accessories, is facing challenges in effectively tracking key performance indicators KPIs (sales, revenue, profit, returns), compare regional performance, analyze product-level trends, and identify high-value customers. Currently, the team is facing difficulty to gain timely insights and make informed business decisions. 
 
 
